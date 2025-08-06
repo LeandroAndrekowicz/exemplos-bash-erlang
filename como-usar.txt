@@ -1,0 +1,4 @@
+erl
+c(calculadora).
+calculadora:soma(10, 5).
+q().
